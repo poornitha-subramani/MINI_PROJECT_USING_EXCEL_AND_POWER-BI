@@ -21,6 +21,7 @@ Attributes: State, City, Station, Latitude, Longitude, Pollutant ID, Pollutant M
 Tools & Technologies Used
 
 Microsoft Excel (Data Cleaning)
+
 Power BI Desktop (Dashboard Development)
 
 Data Cleaning & Transformation
@@ -53,9 +54,6 @@ Dashboard Screenshot
 
 <img width="1049" height="588" alt="real time AQI screenshot" src="https://github.com/user-attachments/assets/40d533d3-c7b0-4e20-9a72-53105b011355" />
 
-Conclusion
-
-This dashboard provides a clear and interactive overview of India's air quality data. It helps identify pollution trends, compare AQI across states and pollutants, and supports better environmental monitoring and decision-making. The project demonstrates how Power BI can transform raw environmental data into meaningful insights through interactive visualizations.
 
 
 Conclusion
