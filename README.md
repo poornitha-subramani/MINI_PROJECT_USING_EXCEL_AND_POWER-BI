@@ -1,4 +1,4 @@
-Project Title
+Project Title:
 
 Air Quality Analysis Dashboard - India
 
